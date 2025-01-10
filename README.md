@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm whuk! 👋
 
-<!--
-**whuk/whuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for learning and sharing knowledge. Here you'll find a collection of my projects, contributions, and experiments in various programming languages and technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Kotlin, JavaScript, TypeScript
+- **Frameworks & Libraries:** Spring, Node.js
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB
+- **Tools & Platforms:** Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions
+
+## 🌱 Currently Learning
+
+- Advanced Kubernetes configurations
+- Machine Learning with python
+- Rust programming language
+
+## 📈 GitHub Stats
+
+![whuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=whuk&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **Email:** whuk84@gmail.com
+- **LinkedIn:** [linkedin.com/in/whuk]([https://www.linkedin.com/in/whuk](https://www.linkedin.com/in/%ED%98%84%EC%9A%B1-%EC%9A%B0-7389bb97/))
+
+## 🤝 Let's Collaborate!
+
+I'm always open to collaborating on interesting projects and exploring new opportunities. Feel free to reach out if you'd like to work together or have any questions.
+
+Thanks for visiting my profile! Have a great day! 😊
