@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 📫 How to Reach Me
 
 - **Email:** whuk84@gmail.com
-- **LinkedIn:** [linkedin.com/in/whuk]([https://www.linkedin.com/in/whuk](https://www.linkedin.com/in/%ED%98%84%EC%9A%B1-%EC%9A%B0-7389bb97/))
+- **LinkedIn:** https://www.linkedin.com/in/%ED%98%84%EC%9A%B1-%EC%9A%B0-7389bb97/
 
 ## 🤝 Let's Collaborate!
 
